@@ -1,6 +1,6 @@
-### Oi gente! Eu sou Sthefanny 👋
+### Oi gente! Eu sou Sthefanny 🌻
 
-Eu sou estudante de programação na Alura, autoditada na maioria dos assuntos que aprendo e apaixonada por ensinar. Aqui eu pretendo compartilhar com vocês a evoluçã
+Estudante de programação na Alura, autoditada na maioria dos assuntos que aprendo e apaixonada por ensinar. Aqui eu pretendo compartilhar com vocês a evolução dos meus projetos!
 
 - 🌱 Eu estou aprendendo programação
 - 🎨 Me interesso pela área de web design
