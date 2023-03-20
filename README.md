@@ -1,6 +1,6 @@
 ### Oi gente! Eu sou Sthefanny 🌻
 
-Estudante de programação na Alura, autoditada na maioria dos assuntos que aprendo e apaixonada por ensinar. Aqui eu pretendo compartilhar com vocês a evolução dos meus projetos!
+Estudante de design e desenvolvimento front-end, autoditada na maioria dos assuntos que aprendo e apaixonada por ensinar. Aqui eu pretendo compartilhar com vocês a evolução dos meus projetos!
 
 - 🌱 Eu estou aprendendo programação
 - 🎨 Me interesso pela área de web design
